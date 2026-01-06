@@ -1,4 +1,3 @@
 # HopeJ-Personal.github.io
 
-<div class="miniplayer"></div>
-<iframe src=""></iframe>
+<iframe src="https://github.com/HopeJ-Personal/HopeJ-Personal.github.io/blob/main/flappyborg.html"></iframe>
